@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+/Users/dragonrune/Documents/GitHub/O2O-Store/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3989182989.index
+2259853795.index
+2487599611.index
+1079668972.index
