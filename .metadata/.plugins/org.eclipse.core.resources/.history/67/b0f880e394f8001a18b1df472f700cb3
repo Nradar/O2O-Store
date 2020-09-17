@@ -12,7 +12,6 @@ public class PersonInfo {
 	private Integer userType;
 	private Date createTime;
 	private Date lastEditTime;
-	
 	public Long getUserId() {
 		return userId;
 	}
